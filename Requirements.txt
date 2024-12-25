@@ -1,0 +1,4 @@
+tweepy==4.15.0        # For interacting with the Twitter API
+openai==0.27.8        # For GPT-based tweet generation
+python-dotenv==1.0.0  # For loading environment variables from .env
+requests==2.31.0      # For making API calls (e.g., CoinGecko)
